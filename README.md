@@ -19,4 +19,4 @@ Highly motivated and enthusiastic about learning new technologies and working on
 challenging projects. A great team player with can-do attitude.
 
 ![html](https://user-images.githubusercontent.com/52976293/186632257-832675d8-f904-454e-8a68-f2f1a0c64798.png)
-[css](https://css.com)
+![css](https://user-images.githubusercontent.com/52976293/186632603-2582d6da-9564-4589-8b44-584ed02b5e6b.png)
