@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Highly experienced web developer with more than 6 years experience in software development industry throughout development life cycle end to end. Having experienced in both front-end and back-end development.
+Highly motivated and enthusiastic about learning new technologies and working on distinguished and
+challenging projects. A great team player with can-do attitude.
