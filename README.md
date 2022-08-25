@@ -18,5 +18,5 @@ Highly experienced web developer with more than 6 years experience in software d
 Highly motivated and enthusiastic about learning new technologies and working on distinguished and
 challenging projects. A great team player with can-do attitude.
 
-
-![html (1)](https://user-images.githubusercontent.com/52976293/186632152-8170c0c1-7808-46ae-a0ff-a20cb4a28553.png)
+![html](https://user-images.githubusercontent.com/52976293/186632257-832675d8-f904-454e-8a68-f2f1a0c64798.png)
+[css](https://css.com)
