@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/C4E16AQHyxwP7dy-Maw/profile-displaybackgroundimage-shrink_350_1400/0/1563300928938?e=1683763200&v=beta&t=fhnxRwHQrnyFIp3BqclHhyqjm6C6qgKVoYzPa8JYL8s)](https://rishavchanda.io)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sara1989mohammadi&label=Profile%20views&color=0e75b6&style=flat" alt="sara1989mohammadi" /> </p>
 <h1 align="center">Hi 👋, I'm Sara Mohammadi</h1>
 <h3 align="center">A passionate Full Stack Developer from Germany</h3>
