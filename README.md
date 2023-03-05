@@ -1,14 +1,17 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sara1989mohammadi&label=Profile%20views&color=0e75b6&style=flat" alt="sara1989mohammadi" /> </p>
 <h1 align="center">Hi 👋, I'm Sara Mohammadi</h1>
 <h3 align="center">A passionate Full Stack Developer from Germany</h3>
-<p> Highly experienced web developer with more than 10 years experience in software development industry throughout development life cycle end to end. Having experienced in both front-end and back-end development.
+<p> Highly experienced web developer with more than 4 years experience in software development industry throughout development life cycle end to end. Having experienced in both front-end and back-end development.
 Highly motivated and enthusiastic about learning new technologies and working on distinguished and
 challenging projects. A great team player with can-do attitude.
 </p>
+<div align="center">
+<img alt="Coding" width="400" src="https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sara1989mohammadi&label=Profile%20views&color=0e75b6&style=flat" alt="sara1989mohammadi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sara1989mohammadi" alt="sara1989mohammadi" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sara1989mohammadi" alt="sara1989mohammadi" /></a> </p>
 
 - 🌱 I’m currently learning **NEXT.JS, SASS, TAILWIND**
 
