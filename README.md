@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4E16AQHyxwP7dy-Maw/profile-displaybackgroundimage-shrink_350_1400/0/1563300928938?e=1683763200&v=beta&t=fhnxRwHQrnyFIp3BqclHhyqjm6C6qgKVoYzPa8JYL8s)](https://rishavchanda.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sara1989mohammadi&label=Profile%20views&color=0e75b6&style=flat" alt="sara1989mohammadi" /> </p>
 <h1 align="center">Hi 👋, I'm Sara Mohammadi</h1>
